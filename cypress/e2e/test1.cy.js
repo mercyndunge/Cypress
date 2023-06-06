@@ -1,4 +1,4 @@
-describe('sign up', () => {
+describe('first test', () => {
   
   it('Verify title', () => {
     cy.visit('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
